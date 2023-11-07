@@ -271,7 +271,7 @@ ol {
     .bloque1 {
         margin-left: 5%; /* Ajusta el margen izquierdo en pantallas más pequeñas */
         margin-right: 5%; /* Ajusta el margen derecho en pantallas más pequeñas */
-        font-size: 15px;
+        font-size: 1rem;
     }
 
     nav ul {
